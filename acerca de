@@ -11,7 +11,7 @@
         <h1 style="color: rgb(0, 0, 0); font-family: cursive; font-size: 50px;">Acerda de</h1>
         <hr> 
         <a href="pagina">Inicio</a>
-                <a href ="contactos">Contacto</a>
+                <a href ="mailto:elvis.pachacama@itq.edu.ec">Contacto</a>
                 <a href="acerca de">Acerca de</a> <br>
         <h2> Información personal</h2><br>
        
